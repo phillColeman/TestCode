@@ -6,6 +6,9 @@ Requirements
 Newtonsoft.Json 12.0.3 - this should be automatically installed via Nuget, but have only tested it on my local machine as that is all I have access to.
 (https://www.newtonsoft.com/json)
 
+Dot Net Core - https://dotnet.microsoft.com/download/dotnet-core/?utm_source=getdotnetcore&utm_medium=referral
+
+
 TODO
 
 Improved error handling - if you don't enter a name or enter one that is too long (256 is the maximum length) then the program will exit, albeit with an error message.
