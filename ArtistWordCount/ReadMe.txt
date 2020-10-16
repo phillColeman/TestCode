@@ -1,5 +1,5 @@
 ﻿Simple command line exe.
-Run the exe and you are asked for a band or artist name, type in your query and press return the tool then calculates the results.
+Run the exe and you are asked for a band or artist name, type in your query and press return. The tool then calculates the results.
 
 Requirements
 
